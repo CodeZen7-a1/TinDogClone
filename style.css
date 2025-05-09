@@ -1,0 +1,62 @@
+.NavItem{
+    font-size: 24px;
+    color: rgb(238, 231, 231);
+    font-weight: bolder;
+    margin-right: 65px;
+}
+.NavItem:link{
+    color:rgb(213, 206, 206);
+}
+.NavItem:hover{
+    color:white;
+}
+.BTN{
+    background-color: rgb(238, 72, 100) ;
+     color:white; 
+     border-radius: 5%;
+     border-color: white;
+}
+.BTN:link{
+    color:white;
+}
+.BTN:hover{
+    background-color: white;
+    color:black;
+
+}
+.featureTin{
+    color:rgb(224, 120, 120) ;
+}
+.featureTin:link{
+    color:rgb(224, 120, 120) ;
+}
+.featureTin:hover{
+    color:rgb(238, 72, 100) ;
+}
+.BTNH{
+    background-color: white;
+     color:black; 
+     border-radius: 8%;
+     border-color: black;
+
+}
+.BTNH:link{
+background-color: white;
+color: black;
+}
+.BTNH:hover{
+    background-color: black;
+    color:white;
+
+}
+.iconBTN{
+    background-color: white;
+}
+.iconBTN:link{
+    background-color: white;
+    color:gray;
+}
+.iconBTN:hover{
+    background-color: gray;
+    color:white;
+}
